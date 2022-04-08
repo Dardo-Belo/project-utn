@@ -1,0 +1,32 @@
+/* fhiaifh}
+fdfjakf */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#nav-liv-home{
+    color: rgb(27, 27, 219);
+    background-color:green;
+    font-size:xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+
+.nav-item{
+    font-family:Arial, Helvetica, sans-serif;
+    color: yellow;
+}
+
+.nav-lucas{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-small;
+    color: crimson;
+    font-size: xx-large;
+}
+#img {
+    max-height: 50%;
+    max-width: 50%;
+}
